@@ -16,7 +16,7 @@ Este proyecto implementa un proceso por lotes para leer facturas desde una base 
 
 ## Arquitectura
 
-El proyecto sigue una estructura modular con principios de c贸digo limpio y separaci贸n de responsabilidades:
+El proyecto sigue una estructura modular con principios de codigo limpio y separacion de responsabilidades:
 
 - **Reader:** Carga facturas desde Oracle usando un `ItemReader`.
 - **Writer:** Exporta facturas a un archivo CSV.
