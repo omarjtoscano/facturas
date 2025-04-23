@@ -1,0 +1,3 @@
+CREATE USER fact_user IDENTIFIED BY fact_pass;
+GRANT CONNECT, RESOURCE TO fact_user;
+
